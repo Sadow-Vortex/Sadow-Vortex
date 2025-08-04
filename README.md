@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm RP (Sadow-Vortex)
 
-<!--
-**Sadow-Vortex/Sadow-Vortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java backend developer with a focus on building scalable applications, RESTful APIs, and full-stack integrations using modern tools and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Java, Kotlin, JavaScript
+- **Frameworks**: Spring Boot, Android SDK
+- **Databases**: MySQL
+- **Tools**: Git, Postman, Android Studio, IntelliJ, VS Code
+- **Other**: Firebase Realtime DB & Auth, REST APIs, XML, JSON
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 [Kisan Seva](https://github.com/Sadow-Vortex/Kisan__Seva)
+> A mobile application designed to help farmers access essential services like crop advisory, fertilizer tracking, and market price updates.
+- Java + Firebase (Realtime DB, Auth, Storage)
+- Role-based dashboard
+- Offline data sync
+- Clean and intuitive UI
+
+---
+
+### 📦 [Advertisment Backend API](https://github.com/Sadow-Vortex/Advertisment)
+> RESTful backend with Spring Boot, MySQL.
+
+---
+
+### 📚 [Product Management System API](https://github.com/Sadow-Vortex/Product_API)
+> A full CRUD-based Java application with MySQL integration for managing products, name, and their price.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadow-Vortex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadow-Vortex&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- **Email**: mannarp5553@gmail.com*
+- **LinkedIn**: linkedin.com/in/rushi-prasad-manna*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
