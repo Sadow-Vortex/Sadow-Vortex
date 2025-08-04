@@ -35,13 +35,6 @@ I'm a passionate Java backend developer with a focus on building scalable applic
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadow-Vortex&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadow-Vortex&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - **Email**: mannarp5553@gmail.com*
